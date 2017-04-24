@@ -1,0 +1,4 @@
+git
+
+clone
+git clone ssh://git@10.157.16.129/opt/git/horizondev.git
